@@ -6,7 +6,7 @@ Contribute to this repository by following these steps:
 
 - Fork this repository to make a copy of this in your own account.
 - Use the command `git clone URL` to clone the repo to your personal computer. The URL should be of the forked repository.
-- Change directory using `cd Lets-Git-It`
+- Change directory using `cd LetsGitIt2025`
 - Now add the upstream URL using `git remote add upstream URL`. This URL is of the main repository, i.e, FossMec repository.
 - Change to your Group directory `cd GroupNo.`
 - Create a file, `touch name.txt` under your respective Group folder and add your code to that file.
